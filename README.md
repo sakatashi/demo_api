@@ -1,24 +1,4 @@
-# README
+# demo_api
+* Google Vision API (画像認識)を使用して画像全体に対して画像コンテンツ分析を実行し、結果を返す機能追加
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* Google Natural Language API (自然言語処理)を使用して、テキスト内でエンティティについて表現された感情（ポジティブかネガティブか）の特定をし、スコア表示
